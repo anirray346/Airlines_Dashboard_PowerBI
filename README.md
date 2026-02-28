@@ -1,103 +1,89 @@
-✈️ Airlines Price Prediction Dashboard – Power BI
-📌 Project Overview
+# ✈️ Airlines Price Prediction Dashboard – Power BI  
 
-The Airlines Dashboard is an interactive Power BI report designed to analyze airline performance, passenger trends, ticket pricing, and operational efficiency.
+## 📌 Project Overview  
 
-This dashboard helps in understanding key insights such as flight distribution, revenue patterns, delays, and customer behavior through clear visualizations.
+The **Airlines Dashboard** is an interactive Power BI report designed to analyze airline operations, passenger trends, ticket pricing, and revenue performance.  
 
-🎯 Objectives
+This dashboard delivers meaningful business insights using dynamic visualizations and interactive filters to support data-driven decision-making.
 
-Analyze airline operational performance
+---
 
-Track total flights and passenger trends
+## 🎯 Business Objective  
 
-Monitor ticket pricing and revenue
+The main objectives of this project are:
 
-Identify delay patterns and performance issues
+- Monitor airline operational performance  
+- Analyze passenger traffic trends  
+- Track revenue and ticket pricing patterns  
+- Evaluate flight delay performance  
+- Identify top-performing routes and airlines  
 
-Provide business insights for better decision-making
+---
 
-📊 Key KPIs
+## 📊 Key Performance Indicators (KPIs)
 
-✅ Total Flights
+- Total Flights  
+- Total Passengers  
+- Total Revenue  
+- Average Ticket Price  
+- On-Time vs Delayed Flights  
+- Top Routes by Revenue  
 
-✅ Total Passengers
+---
 
-✅ Total Revenue
+## 📈 Dashboard Features  
 
-✅ Average Ticket Price
+- 📍 Route-wise flight analysis  
+- 📅 Monthly and yearly trend analysis  
+- 🏆 Airline performance comparison  
+- ⏱️ Delay analysis and operational efficiency tracking  
+- 💰 Revenue breakdown by airline and route  
+- 🎛️ Interactive slicers and filters  
 
-✅ On-time vs Delayed Flights
+---
 
-✅ Top Performing Routes
+## 🛠️ Tools & Technologies Used  
 
-📈 Dashboard Features
+- **Power BI Desktop**  
+- **Power Query** (Data Cleaning & Transformation)  
+- **DAX (Data Analysis Expressions)**  
+- Data Visualization & Reporting  
 
-📍 Route-wise flight analysis
+---
 
-📅 Monthly/Yearly trend analysis
+## 📂 Dataset Description  
 
-🏆 Top airlines by revenue or passenger count
+The dataset contains the following information:
 
-⏱️ Delay analysis (Average delay time)
+- Airline Name  
+- Source & Destination  
+- Flight Date  
+- Ticket Price  
+- Passenger Count  
+- Flight Status (On-Time / Delayed)  
+- Delay Duration  
 
-💰 Revenue breakdown by airline or route
 
-📌 Interactive filters and slicers
+---
 
-🛠️ Tools & Technologies Used
-
-Power BI Desktop
-
-Data Cleaning & Transformation using Power Query
-
-DAX (Data Analysis Expressions) for calculated measures
-
-Data Visualization & Interactive Reporting
-
-📂 Dataset Description
-
-The dataset includes information such as:
-
-Airline Name
-
-Source & Destination
-
-Flight Date
-
-Ticket Price
-
-Passenger Count
-
-Flight Status (On-Time / Delayed)
-
-Delay Duration
-
-(Dataset used for educational and analytical purposes.)
-
-📸 Dashboard Preview
-
-(Add your screenshot here in GitHub like this:)
+## 📸 Dashboard Preview  
 
 ![Airlines Dashboard](Screenshot%202025-10-26%20063918.png)
-🚀 How to Use
 
-Download the .pbix file from this repository.
+---
 
-Open it using Power BI Desktop.
 
-Interact with filters and slicers to explore insights.
 
-📌 Insights Gained
+## 📌 Key Insights  
 
-Identified peak travel months
+- Identified peak travel months and high-demand routes  
+- Determined revenue contribution by airlines  
+- Analyzed delay trends impacting performance  
+- Compared airline efficiency based on passenger volume  
 
-Found top revenue-generating routes
+---
 
-Analyzed delay trends affecting operational performance
+## 👤 Author  
 
-Compared airline performance based on passenger traffic
-
-📬 Author
-
-Anirban Ray
+**Anirban Ray**  
+  
